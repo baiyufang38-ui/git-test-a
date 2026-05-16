@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-print(12345678910)
-=======
+<<<<<<<<< Temporary merge branch 1
 print(123)
->>>>>>> 4572698abc9534819cdfdd87be799461c156e3
+=========
+print(123456)
+>>>>>>>>> Temporary merge branch 2
